@@ -37,7 +37,7 @@ fn main() {
     );
 }
 
-#[derive(Default, Clone)]c
+#[derive(Default, Clone)]ck
 struct MyEguiApp {
     clipboard_content: String,
     previous_contents: Vec<String>
