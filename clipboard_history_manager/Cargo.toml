@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 copypasta = "0.10.1"
+eframe = "0.29.1"

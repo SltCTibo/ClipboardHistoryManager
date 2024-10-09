@@ -1,0 +1,10 @@
+/Users/tibobarbe/Thibault/Rust/ClipboardHistoryManager/clipboard_history_manager/target/debug/deps/libobjc2_encode-96fafa54ba85329b.rmeta: /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/lib.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding_box.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/helper.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/parse.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/static_str.rs
+
+/Users/tibobarbe/Thibault/Rust/ClipboardHistoryManager/clipboard_history_manager/target/debug/deps/objc2_encode-96fafa54ba85329b.d: /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/lib.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding_box.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/helper.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/parse.rs /Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/static_str.rs
+
+/Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/lib.rs:
+/Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding.rs:
+/Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/encoding_box.rs:
+/Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/helper.rs:
+/Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/parse.rs:
+/Users/tibobarbe/.cargo/registry/src/index.crates.io-6f17d22bba15001f/objc2-encode-4.0.3/src/static_str.rs:
